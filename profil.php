@@ -11,7 +11,7 @@ $formation = "marketing digital";
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
-<title>Profil utilisateur</title>
+<title>Profil utilisateur </title>
 </head>
 <body>
 
