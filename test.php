@@ -32,3 +32,13 @@ echo "Formation : " . $f["nom"] .
 
 }
 ?> 
+<?php
+function message($msg, $text) {
+echo " $msg!";
+echo " $text!";
+}
+message("bonjour", "ahmed"); 
+?>
+<?php
+ord($a)
+?>
